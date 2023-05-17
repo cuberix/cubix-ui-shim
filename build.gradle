@@ -7,7 +7,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.cubix.launcher"
+        applicationId "com.cuberix.launcher"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 23
